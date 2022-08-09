@@ -3,7 +3,11 @@ $(document).ready(function() {
   var thumbs = $("#thumbs");
   //var totalslides = 10;
   var syncedSecondary = true;
-//This is change in base64
+
+
+
+
+  //  this is the chnage made in branch base64
   bigimage
     .owlCarousel({
     items: 1,
