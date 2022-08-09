@@ -49,7 +49,7 @@ $(document).ready(function() {
   function syncPosition(el) {
     //if loop is set to false, then you have to uncomment the next line
     //var current = el.item.index;
-
+ //This is commenting done for reference 
     //to disable loop, comment this block
     var count = el.item.count - 1;
     var current = Math.round(el.item.index - el.item.count / 2 - 0.5);
